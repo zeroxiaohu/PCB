@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM_EN Pin=H?-27
+Removed Pin From Net: NetName=AP_SWIRE Pin=H?-29
+Added Pin To Net: NetName=AP_SWIRE Pin=H?-27
+Added Pin To Net: NetName=PWM_EN Pin=H?-29

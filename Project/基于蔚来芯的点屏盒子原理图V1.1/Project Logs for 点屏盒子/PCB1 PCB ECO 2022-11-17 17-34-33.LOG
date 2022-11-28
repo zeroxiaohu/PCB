@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=P3 Old Footprint=MHDR2X20 New Footprint=HDR-TH_40P-P2.00-V-M-R2-C20-S2.00
+Change Component Footprint: Designator=P4 Old Footprint=MHDR2X20 New Footprint=HDR-TH_40P-P2.00-V-M-R2-C20-S2.00
+Added Pin To Net: NetName=NetP3_15 Pin=P3-15
+Added Pin To Net: NetName=NetP3_15 Pin=P3-17
+Added Pin To Net: NetName=NetP3_15 Pin=P3-19
+Added Net: Name=NetP3_15
+Added Pin To Net: NetName=NetP3_21 Pin=P3-21
+Added Pin To Net: NetName=NetP3_21 Pin=P3-23
+Added Pin To Net: NetName=NetP3_21 Pin=P3-25
+Added Net: Name=NetP3_21
+Added Pin To Net: NetName=NetP3_27 Pin=P3-27
+Added Pin To Net: NetName=NetP3_27 Pin=P3-29
+Added Pin To Net: NetName=NetP3_27 Pin=P3-31
+Added Net: Name=NetP3_27
+Added Pin To Net: NetName=NetP3_33 Pin=P3-33
+Added Pin To Net: NetName=NetP3_33 Pin=P3-35
+Added Pin To Net: NetName=NetP3_33 Pin=P3-37
+Added Pin To Net: NetName=NetP3_33 Pin=P3-39
+Added Net: Name=NetP3_33
+Added Room: Name=Sheet1

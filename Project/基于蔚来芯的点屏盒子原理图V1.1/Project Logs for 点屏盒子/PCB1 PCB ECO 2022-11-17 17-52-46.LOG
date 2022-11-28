@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TD_D1P Pin=P4-9
+Removed Pin From Net: NetName=TD_D1N Pin=P4-11
+Removed Pin From Net: NetName=TD_CLKP Pin=P4-15
+Removed Pin From Net: NetName=TD_CLKN Pin=P4-17
+Removed Pin From Net: NetName=TD_D2P Pin=P4-21
+Removed Pin From Net: NetName=TD_D2N Pin=P4-23
+Removed Pin From Net: NetName=TD_D3P Pin=P4-27
+Removed Pin From Net: NetName=TD_D3N Pin=P4-29
+Added Pin To Net: NetName=TD_D1P Pin=H?-5
+Added Pin To Net: NetName=TD_D1N Pin=H?-6
+Added Pin To Net: NetName=TD_CLKP Pin=H?-9
+Added Pin To Net: NetName=TD_CLKN Pin=H?-10
+Added Pin To Net: NetName=TD_D2P Pin=H?-13
+Added Pin To Net: NetName=TD_D2N Pin=H?-14
+Added Pin To Net: NetName=TD_D3P Pin=H?-17
+Added Pin To Net: NetName=TD_D3N Pin=H?-18

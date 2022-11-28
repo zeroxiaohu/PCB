@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=AP_D3N Pin=P3-4
+Removed Pin From Net: NetName=AP_D3P Pin=P3-6
+Removed Pin From Net: NetName=AP_D0N Pin=P3-10
+Removed Pin From Net: NetName=AP_D0P Pin=P3-12
+Removed Pin From Net: NetName=AP_D1N Pin=P3-22
+Removed Pin From Net: NetName=AP_D1P Pin=P3-24
+Removed Pin From Net: NetName=AP_D2N Pin=P3-28
+Removed Pin From Net: NetName=AP_D2P Pin=P3-30
+Added Pin To Net: NetName=AP_D2N Pin=P3-4
+Added Pin To Net: NetName=AP_D2P Pin=P3-6
+Added Pin To Net: NetName=AP_D1N Pin=P3-10
+Added Pin To Net: NetName=AP_D1P Pin=P3-12
+Added Pin To Net: NetName=AP_D0N Pin=P3-22
+Added Pin To Net: NetName=AP_D0P Pin=P3-24
+Added Pin To Net: NetName=AP_D3N Pin=P3-28
+Added Pin To Net: NetName=AP_D3P Pin=P3-30
+Added Room: Name=Sheet1

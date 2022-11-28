@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=BL_VCC Pin=D1-1
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Added Component: Designator=D?(SOD-123_L2.8-W1.8-LS3.7-FD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Average Rectified Current (Io)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20161024/1477288459223.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (Vf@If)"; Value = "450mV@1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "40V 1A 450mV@1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIODES(√¿Ã®)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage (Vr)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C82544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BL_VCC Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=L1-2
+Added Pin To Net: NetName=NetD?_1 Pin=U3-1
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Sheet1 Member=Component D? 1N5819HW-7-F

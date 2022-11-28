@@ -1,0 +1,609 @@
+Added Component: Designator=C1(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPR5-4X5)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603)
+Add component (AddParameter): Name = "Parameter"; Value = "10V，X7R, ±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0603)
+Add component (AddParameter): Name = "Parameter"; Value = "10V，X7R, ±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603)
+Add component (AddParameter): Name = "Parameter"; Value = "10V，X7R, ±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603)
+Add component (AddParameter): Name = "Parameter"; Value = "10V，X7R, ±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMA_L4.3-W2.6-LS5.2-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Average Rectified Current (Io)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181222/C83852_041FE29A925F1DAA7D9CB1F1C69076C2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS14_C83852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (Vf@If)"; Value = "500mV@1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi(安森美)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage (Vr)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C83852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SS14_C83852"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMA_L4.3-W2.6-LS5.2-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Average Rectified Current (Io)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181222/C83852_041FE29A925F1DAA7D9CB1F1C69076C2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS14_C83852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (Vf@If)"; Value = "500mV@1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi(安森美)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage (Vr)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C83852"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SS14_C83852"; VariantName = "[No Variations]"
+Added Component: Designator=L1(0402-A)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7UH"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(WS2812_LED_4)
+Added Component: Designator=LED2(WS2812_LED_6)
+Added Component: Designator=P1(MHDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MHDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(MHDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(MHDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.02K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.02K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603)
+Add component (AddParameter): Name = "Parameter"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NC"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R %5"; VariantName = "[No Variations]"
+Added Component: Designator=U1(FLASH-WSON-8- 2X3mm)
+Add component (AddParameter): Name = "Parameter"; Value = "WSON-8- 2X3mm"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180727/C6186_7A095716F0823C02F1997A905E26C086.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AMS1117-3.3_C6186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "1.3V@(800mA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Feature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Vout=3.3V 1A 72dB@(120Hz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "美国AMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Input Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Polarity"; Value = "正"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "固定"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "72dB@(120Hz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current (Ground Current)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C6186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MP3302DJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MP3302DJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MP3302DJ"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180727/C6186_7A095716F0823C02F1997A905E26C086.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "AMS1117-3.3_C6186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "1.3V@(800mA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Feature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Vout=3.3V 1A 72dB@(120Hz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "美国AMS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Input Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Polarity"; Value = "正"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "固定"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "72dB@(120Hz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current (Ground Current)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C6186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Added Component: Designator=U5(WL518-BGA72 4.5mm*5mm)
+Add component (AddParameter): Name = "PCB DECAL"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP7721X2
+Added Component: Designator=USB1(USB-C-SMD_TYPE-C16PIN_C668624)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating - Power (Max)"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200618/C668624_CC51EC37614090AAD56C1421DE954C80.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "母座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TYPE-C母座 16P 4脚插件带定位柱 不锈钢外壳 3次模顶"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(首韩)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C668624"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TYPE-C 16P(073)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_IN Pin=P3-13
+Added Pin To Net: NetName=ADC_IN Pin=U5-A6
+Added Net: Name=ADC_IN
+Added Pin To Net: NetName=AP_CLKN Pin=P3-16
+Added Pin To Net: NetName=AP_CLKN Pin=U5-G8
+Added Net: Name=AP_CLKN
+Added Pin To Net: NetName=AP_CLKP Pin=P3-18
+Added Pin To Net: NetName=AP_CLKP Pin=U5-G7
+Added Net: Name=AP_CLKP
+Added Pin To Net: NetName=AP_CS Pin=P3-40
+Added Pin To Net: NetName=AP_CS Pin=U5-B8
+Added Net: Name=AP_CS
+Added Pin To Net: NetName=AP_D0N Pin=P3-10
+Added Pin To Net: NetName=AP_D0N Pin=U5-F8
+Added Net: Name=AP_D0N
+Added Pin To Net: NetName=AP_D0P Pin=P3-12
+Added Pin To Net: NetName=AP_D0P Pin=U5-F7
+Added Net: Name=AP_D0P
+Added Pin To Net: NetName=AP_D1N Pin=P3-22
+Added Pin To Net: NetName=AP_D1N Pin=U5-H8
+Added Net: Name=AP_D1N
+Added Pin To Net: NetName=AP_D1P Pin=P3-24
+Added Pin To Net: NetName=AP_D1P Pin=U5-H7
+Added Net: Name=AP_D1P
+Added Pin To Net: NetName=AP_D2N Pin=P3-28
+Added Pin To Net: NetName=AP_D2N Pin=U5-J8
+Added Net: Name=AP_D2N
+Added Pin To Net: NetName=AP_D2P Pin=P3-30
+Added Pin To Net: NetName=AP_D2P Pin=U5-J7
+Added Net: Name=AP_D2P
+Added Pin To Net: NetName=AP_D3N Pin=P3-4
+Added Pin To Net: NetName=AP_D3N Pin=U5-E8
+Added Net: Name=AP_D3N
+Added Pin To Net: NetName=AP_D3P Pin=P3-6
+Added Pin To Net: NetName=AP_D3P Pin=U5-E7
+Added Net: Name=AP_D3P
+Added Pin To Net: NetName=AP_INT Pin=P3-5
+Added Pin To Net: NetName=AP_INT Pin=U5-A7
+Added Net: Name=AP_INT
+Added Pin To Net: NetName=AP_MISO Pin=P3-38
+Added Pin To Net: NetName=AP_MISO Pin=U5-B7
+Added Net: Name=AP_MISO
+Added Pin To Net: NetName=AP_MOSI Pin=P3-36
+Added Pin To Net: NetName=AP_MOSI Pin=U5-A8
+Added Net: Name=AP_MOSI
+Added Pin To Net: NetName=AP_RST Pin=P3-3
+Added Pin To Net: NetName=AP_RST Pin=U5-B6
+Added Net: Name=AP_RST
+Added Pin To Net: NetName=AP_SCK Pin=P3-34
+Added Pin To Net: NetName=AP_SCK Pin=U5-D8
+Added Net: Name=AP_SCK
+Added Pin To Net: NetName=AP_SWIRE Pin=P3-11
+Added Pin To Net: NetName=AP_SWIRE Pin=U5-B5
+Added Net: Name=AP_SWIRE
+Added Pin To Net: NetName=AP_TE Pin=P3-7
+Added Pin To Net: NetName=AP_TE Pin=U5-C6
+Added Net: Name=AP_TE
+Added Pin To Net: NetName=AP_TP_RST Pin=P3-1
+Added Pin To Net: NetName=AP_TP_RST Pin=U5-D7
+Added Net: Name=AP_TP_RST
+Added Pin To Net: NetName=BL_GND Pin=P4-36
+Added Pin To Net: NetName=BL_GND Pin=R3-2
+Added Pin To Net: NetName=BL_GND Pin=U3-3
+Added Net: Name=BL_GND
+Added Pin To Net: NetName=BL_VCC Pin=D1-1
+Added Pin To Net: NetName=BL_VCC Pin=P4-34
+Added Net: Name=BL_VCC
+Added Pin To Net: NetName=F_CS Pin=U1-1
+Added Pin To Net: NetName=F_CS Pin=U5-A2
+Added Net: Name=F_CS
+Added Pin To Net: NetName=F_MISO Pin=U1-2
+Added Pin To Net: NetName=F_MISO Pin=U5-B2
+Added Net: Name=F_MISO
+Added Pin To Net: NetName=F_MOSI Pin=U1-5
+Added Pin To Net: NetName=F_MOSI Pin=U5-C1
+Added Net: Name=F_MOSI
+Added Pin To Net: NetName=F_SCK Pin=LED1-4
+Added Pin To Net: NetName=F_SCK Pin=U1-6
+Added Pin To Net: NetName=F_SCK Pin=U5-B1
+Added Net: Name=F_SCK
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=LED2-6
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-7
+Added Pin To Net: NetName=GND Pin=P4-13
+Added Pin To Net: NetName=GND Pin=P4-19
+Added Pin To Net: NetName=GND Pin=P4-25
+Added Pin To Net: NetName=GND Pin=P4-31
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U5-D4
+Added Pin To Net: NetName=GND Pin=U5-E4
+Added Pin To Net: NetName=GND Pin=U5-E5
+Added Pin To Net: NetName=GND Pin=U5-E6
+Added Pin To Net: NetName=GND Pin=U5-F4
+Added Pin To Net: NetName=GND Pin=U5-F5
+Added Pin To Net: NetName=GND Pin=U5-G5
+Added Pin To Net: NetName=GND Pin=U5-G6
+Added Pin To Net: NetName=GND Pin=USB1-A1B12
+Added Pin To Net: NetName=GND Pin=USB1-B1A12
+Added Net: Name=GND
+Added Pin To Net: NetName=IOVCC Pin=C7-1
+Added Pin To Net: NetName=IOVCC Pin=C8-1
+Added Pin To Net: NetName=IOVCC Pin=D2-2
+Added Pin To Net: NetName=IOVCC Pin=P4-28
+Added Pin To Net: NetName=IOVCC Pin=P4-30
+Added Pin To Net: NetName=IOVCC Pin=R8-2
+Added Pin To Net: NetName=IOVCC Pin=U1-3
+Added Pin To Net: NetName=IOVCC Pin=U1-7
+Added Pin To Net: NetName=IOVCC Pin=U1-8
+Added Pin To Net: NetName=IOVCC Pin=U4-2
+Added Pin To Net: NetName=IOVCC Pin=U4-4
+Added Pin To Net: NetName=IOVCC Pin=U5-C3
+Added Pin To Net: NetName=IOVCC Pin=U5-D3
+Added Net: Name=IOVCC
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4-1
+Added Pin To Net: NetName=NetC2_1 Pin=U3-5
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R7-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U5-G1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U5-F1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=U5-E1
+Added Pin To Net: NetName=NetC14_1 Pin=U5-E2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U5-F2
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U3-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U5-F6
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U5-E3
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U5-F3
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U5-G3
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=PWM_EN Pin=P3-9
+Added Pin To Net: NetName=PWM_EN Pin=U5-A5
+Added Net: Name=PWM_EN
+Added Pin To Net: NetName=SWCLK Pin=P2-2
+Added Pin To Net: NetName=SWCLK Pin=U5-C7
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P2-3
+Added Pin To Net: NetName=SWDIO Pin=U5-C8
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TD_CLKN Pin=P4-15
+Added Pin To Net: NetName=TD_CLKN Pin=U5-H4
+Added Net: Name=TD_CLKN
+Added Pin To Net: NetName=TD_CLKP Pin=P4-17
+Added Pin To Net: NetName=TD_CLKP Pin=U5-J4
+Added Net: Name=TD_CLKP
+Added Pin To Net: NetName=TD_CS Pin=P4-39
+Added Pin To Net: NetName=TD_CS Pin=U5-B4
+Added Net: Name=TD_CS
+Added Pin To Net: NetName=TD_D0N Pin=P4-27
+Added Pin To Net: NetName=TD_D0N Pin=U5-H6
+Added Net: Name=TD_D0N
+Added Pin To Net: NetName=TD_D0P Pin=P4-29
+Added Pin To Net: NetName=TD_D0P Pin=U5-J6
+Added Net: Name=TD_D0P
+Added Pin To Net: NetName=TD_D1N Pin=P4-21
+Added Pin To Net: NetName=TD_D1N Pin=U5-H5
+Added Net: Name=TD_D1N
+Added Pin To Net: NetName=TD_D1P Pin=P4-23
+Added Pin To Net: NetName=TD_D1P Pin=U5-J5
+Added Net: Name=TD_D1P
+Added Pin To Net: NetName=TD_D2N Pin=P4-9
+Added Pin To Net: NetName=TD_D2N Pin=U5-H3
+Added Net: Name=TD_D2N
+Added Pin To Net: NetName=TD_D2P Pin=P4-11
+Added Pin To Net: NetName=TD_D2P Pin=U5-J3
+Added Net: Name=TD_D2P
+Added Pin To Net: NetName=TD_D3N Pin=P4-3
+Added Pin To Net: NetName=TD_D3N Pin=U5-H2
+Added Net: Name=TD_D3N
+Added Pin To Net: NetName=TD_D3P Pin=P4-5
+Added Pin To Net: NetName=TD_D3P Pin=U5-J2
+Added Net: Name=TD_D3P
+Added Pin To Net: NetName=TD_INT Pin=P4-6
+Added Pin To Net: NetName=TD_INT Pin=U5-D2
+Added Net: Name=TD_INT
+Added Pin To Net: NetName=TD_LEDPWM Pin=P4-8
+Added Pin To Net: NetName=TD_LEDPWM Pin=R1-2
+Added Pin To Net: NetName=TD_LEDPWM Pin=R2-2
+Added Pin To Net: NetName=TD_LEDPWM Pin=U5-C2
+Added Net: Name=TD_LEDPWM
+Added Pin To Net: NetName=TD_MISO Pin=P4-37
+Added Pin To Net: NetName=TD_MISO Pin=U5-A3
+Added Net: Name=TD_MISO
+Added Pin To Net: NetName=TD_MOSI Pin=P4-35
+Added Pin To Net: NetName=TD_MOSI Pin=U5-B3
+Added Net: Name=TD_MOSI
+Added Pin To Net: NetName=TD_RST Pin=P4-4
+Added Pin To Net: NetName=TD_RST Pin=U5-D1
+Added Net: Name=TD_RST
+Added Pin To Net: NetName=TD_SCK Pin=P4-33
+Added Pin To Net: NetName=TD_SCK Pin=U5-A4
+Added Net: Name=TD_SCK
+Added Pin To Net: NetName=TD_TP_RST Pin=P4-2
+Added Pin To Net: NetName=TD_TP_RST Pin=U5-A1
+Added Net: Name=TD_TP_RST
+Added Pin To Net: NetName=UART_RX Pin=P1-2
+Added Pin To Net: NetName=UART_RX Pin=U5-C5
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=P1-3
+Added Pin To Net: NetName=UART_TX Pin=U5-C4
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=VCC5V Pin=C1-1
+Added Pin To Net: NetName=VCC5V Pin=C3-1
+Added Pin To Net: NetName=VCC5V Pin=C4-1
+Added Pin To Net: NetName=VCC5V Pin=L1-1
+Added Pin To Net: NetName=VCC5V Pin=LED1-1
+Added Pin To Net: NetName=VCC5V Pin=LED2-3
+Added Pin To Net: NetName=VCC5V Pin=LED2-5
+Added Pin To Net: NetName=VCC5V Pin=R4-2
+Added Pin To Net: NetName=VCC5V Pin=U2-3
+Added Pin To Net: NetName=VCC5V Pin=U4-3
+Added Pin To Net: NetName=VCC5V Pin=USB1-A4B9
+Added Pin To Net: NetName=VCC5V Pin=USB1-B4A9
+Added Net: Name=VCC5V
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=P2-4
+Added Pin To Net: NetName=VCC Pin=P4-22
+Added Pin To Net: NetName=VCC Pin=P4-24
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-4
+Added Pin To Net: NetName=VCC Pin=U5-D5
+Added Pin To Net: NetName=VCC Pin=U5-D6
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDD13CP Pin=C16-1
+Added Pin To Net: NetName=VDD13CP Pin=D2-1
+Added Pin To Net: NetName=VDD13CP Pin=R9-2
+Added Pin To Net: NetName=VDD13CP Pin=U5-G2
+Added Net: Name=VDD13CP
+Added Pin To Net: NetName=VSN Pin=P4-16
+Added Pin To Net: NetName=VSN Pin=P4-18
+Added Net: Name=VSN
+Added Pin To Net: NetName=VSP Pin=P4-12
+Added Pin To Net: NetName=VSP Pin=P4-14
+Added Net: Name=VSP
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

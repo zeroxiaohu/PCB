@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=AP_D2N Pin=P3-4
+Removed Pin From Net: NetName=AP_D2P Pin=P3-6
+Removed Pin From Net: NetName=AP_D1N Pin=P3-10
+Removed Pin From Net: NetName=AP_D1P Pin=P3-12
+Removed Pin From Net: NetName=AP_CLKN Pin=P3-16
+Removed Pin From Net: NetName=AP_CLKP Pin=P3-18
+Removed Pin From Net: NetName=AP_D0N Pin=P3-22
+Removed Pin From Net: NetName=AP_D0P Pin=P3-24
+Removed Pin From Net: NetName=AP_D3N Pin=P3-28
+Removed Pin From Net: NetName=AP_D3P Pin=P3-30
+Change Component Designator: OldDesignator=H? NewDesignator=H2
+Added Component: Designator=H?(HDR-TH_40P-P2.00-V-M-R2-C20-S2.00)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "方针"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "黑色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211108/81EC9D0128C817B17F97D545889289A1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PZ200-2-20-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2mm 2x20P 直插 方针"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "3.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HCTL(华灿天禄)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PZ200-2-20-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PZ200-2-20-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "2x20P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2906006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PZ200-2-20-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AP_D2P Pin=H?-1
+Added Pin To Net: NetName=AP_D2N Pin=H?-2
+Added Pin To Net: NetName=AP_D1P Pin=H?-5
+Added Pin To Net: NetName=AP_D1N Pin=H?-6
+Added Pin To Net: NetName=AP_CLKP Pin=H?-9
+Added Pin To Net: NetName=AP_CLKN Pin=H?-10
+Added Pin To Net: NetName=AP_D0P Pin=H?-13
+Added Pin To Net: NetName=AP_D0N Pin=H?-14
+Added Pin To Net: NetName=AP_D3P Pin=H?-17
+Added Pin To Net: NetName=AP_D3N Pin=H?-18
+Added Member To Class: ClassName=Sheet1 Member=Component H? PZ200-2-20-Z

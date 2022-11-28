@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=AP_D2P Pin=H?-1
+Removed Pin From Net: NetName=AP_D2N Pin=H?-2
+Removed Pin From Net: NetName=AP_D1P Pin=H?-5
+Removed Pin From Net: NetName=AP_D1N Pin=H?-6
+Removed Pin From Net: NetName=AP_CLKP Pin=H?-9
+Removed Pin From Net: NetName=AP_CLKN Pin=H?-10
+Removed Pin From Net: NetName=AP_D0P Pin=H?-13
+Removed Pin From Net: NetName=AP_D0N Pin=H?-14
+Removed Pin From Net: NetName=AP_D3P Pin=H?-17
+Removed Pin From Net: NetName=AP_D3N Pin=H?-18
+Added Pin To Net: NetName=AP_D2N Pin=H?-1
+Added Pin To Net: NetName=AP_D2P Pin=H?-2
+Added Pin To Net: NetName=AP_D1P Pin=H?-6
+Added Pin To Net: NetName=AP_CLKN Pin=H?-9
+Added Pin To Net: NetName=AP_CLKP Pin=H?-10
+Added Pin To Net: NetName=AP_D0N Pin=H?-13
+Added Pin To Net: NetName=AP_D0P Pin=H?-14
+Added Pin To Net: NetName=AP_D3N Pin=H?-17
+Added Pin To Net: NetName=AP_D3P Pin=H?-18
+Added Member To Class: ClassName=Sheet1 Member=Component H? PZ200-2-20-Z
